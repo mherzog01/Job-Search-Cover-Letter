@@ -81,17 +81,18 @@ People
 Process
 ----------
 **Attributes of a World-Class Performance Metrics**
+![enter image description here](https://github.com/mherzog01/Job-Search-Cover-Letter/blob/master/images/World-class%20BI%20Process.jpg?raw=true)
 
-
-Technology							Return to:  Cover page   Qualification Map
+Technology
+-------------
 Dashboards and reports using Qlikview, Tableau, Minitab, Data Studio
-
+![enter image description here](https://github.com/mherzog01/Job-Search-Cover-Letter/blob/master/images/Dashboard%20-%20Data%20Studio%20-%20Tissue%20Services%20-%20Business%20Overview.jpg?raw=true)
 
 
 Python-based optimization model for human donor reimbursement
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNzQ2NDI0NCwtMjA2MDIwMDEyLC0xNz
+eyJoaXN0b3J5IjpbLTg0MzIxMDg5OCwtMjA2MDIwMDEyLC0xNz
 UyNDI1NTc0LDE5NzUyNjUwNDgsNDczOTQyMTIsLTE2NDYzNTIx
 NzUsLTE2ODEyNDQwMTUsMTEzNDk4NjgwMCwyMDUwMDU1MjIyLD
 YxNTU4NjUxOV19
