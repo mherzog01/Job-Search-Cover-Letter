@@ -54,6 +54,7 @@ Healthcare service experience
 12 years large enterprise (J&J), 10 years midsize manufacturer (LifeCell/Allergan)
 <hr>
 People
+--------
 |  |  |
 |--|--|
 |x  |&nbsp;  |
@@ -78,7 +79,8 @@ People
 
 
 Process
-Attributes of a World-Class Performance Metrics
+----------
+**Attributes of a World-Class Performance Metrics**
 
 
 Technology							Return to:  Cover page   Qualification Map
@@ -89,8 +91,8 @@ Dashboards and reports using Qlikview, Tableau, Minitab, Data Studio
 Python-based optimization model for human donor reimbursement
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjAyMDAxMiwtMTc1MjQyNTU3NCwxOT
-c1MjY1MDQ4LDQ3Mzk0MjEyLC0xNjQ2MzUyMTc1LC0xNjgxMjQ0
-MDE1LDExMzQ5ODY4MDAsMjA1MDA1NTIyMiw2MTU1ODY1MTldfQ
-==
+eyJoaXN0b3J5IjpbMTQxNzQ2NDI0NCwtMjA2MDIwMDEyLC0xNz
+UyNDI1NTc0LDE5NzUyNjUwNDgsNDczOTQyMTIsLTE2NDYzNTIx
+NzUsLTE2ODEyNDQwMTUsMTEzNDk4NjgwMCwyMDUwMDU1MjIyLD
+YxNTU4NjUxOV19
 -->
