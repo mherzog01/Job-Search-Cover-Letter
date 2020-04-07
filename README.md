@@ -1,26 +1,4 @@
-# TechnicalCoverLetter
-Technical Cover Letter
-
-Michael Herzog
-Data Scientist/Engineer
-
-724 South Main Street
-Stewartsville, NJ  08886
-908.809.3903
-mherzog01@gmail.com
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Mike Herzog
  
 April 6, 2020
 
