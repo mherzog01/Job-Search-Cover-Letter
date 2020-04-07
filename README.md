@@ -1,5 +1,6 @@
-# Highly Qualified Software Engineer and Data Scientist
+# Highly Qualified Data Engineer and Analyst
 I deliver game-changing financial and business insights.   My analytics drive multi-million dollar decisions.  I have deep business experience, including managing >$30MM inventory plans.  My  deep technical skills allow me to access data from multiple systems to deliver business results.   
+
 Innovative solutions.  Dashboards and metrics which that answer the question:  “are we winning or losing?”
 
 Financial modeling and decision support.  Interactive financial simulations and modeling drove $12MM tissue reimbursement decision.   Product cost modeling and for engineering and R&D.
