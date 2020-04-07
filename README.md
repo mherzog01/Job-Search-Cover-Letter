@@ -1,11 +1,16 @@
 # Highly Qualified Data Engineer and Analyst
 I deliver game-changing financial and business insights.   My analytics drive multi-million dollar decisions.  I have deep business experience, including managing >$30MM inventory plans.  My  deep technical skills allow me to access data from multiple systems to deliver business results.   
 
-Innovative solutions.  Dashboards and metrics which that answer the question:  “are we winning or losing?”
+- Innovative solutions.  Dashboards and metrics which that answer the question:  “are we winning or losing?”
+   
+   Financial modeling and decision support.  Interactive financial
+   simulations and modeling drove $12MM tissue reimbursement decision.  
+   Product cost modeling and for engineering and R&D.
+   
+   Technical wizardry.   Expert data engineer -- data pipelines,
+   wrangling, quality, database design, SQL expert.  Web scraping
+   (Selenium).  Process automation.
 
-Financial modeling and decision support.  Interactive financial simulations and modeling drove $12MM tissue reimbursement decision.   Product cost modeling and for engineering and R&D.
-
-Technical wizardry.   Expert data engineer -- data pipelines, wrangling, quality, database design, SQL expert.  Web scraping (Selenium).  Process automation.
 I am the “go-to” person for business partners who need to solve complex data challenges.  
 
 For example, I am currently managing a program of enhancements to a 600 user B2B portal by improving the website’s data quality, look and feel, and analytical capabilities.   We started with voice of customer.  Then, we created detailed prototypes, closely partnering with stakeholders.  We implemented quick wins, created a long-term roadmap, and are now flawlessly executing.   
@@ -73,5 +78,5 @@ Dashboards and reports using Qlikview, Tableau, Minitab, Data Studio
 
 Python-based optimization model for human donor reimbursement
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODYyMDgxNDhdfQ==
+eyJoaXN0b3J5IjpbMTM3MzY0NTQ5NV19
 -->
