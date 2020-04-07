@@ -57,15 +57,15 @@ People
 --------
 <table>
 	<tr>
-		<td><img href="https://github.com/mherzog01/Job-Search-Cover-Letter/blob/master/images/Recommendation-%20Jim%20Waldron.jpg?raw=true"></td>
+		<td><img src="https://github.com/mherzog01/Job-Search-Cover-Letter/blob/master/images/Recommendation-%20Jim%20Waldron.jpg?raw=true"></td>
 		<td>&nbsp; </td>
 	</tr>
 	<tr>
 		<td>&nbsp;</td>
-		<td>y </td>
+		<td><img src="https://github.com/mherzog01/Job-Search-Cover-Letter/blob/master/images/Recommendation%20-%20David%20Reilly.jpg?raw=true"></td>
 	</tr>
 	<tr>
-		<td>Z</td>
+		<td></td>
 		<td>&nbsp; </td>
 	</tr>
 </table>
@@ -105,8 +105,8 @@ Technology
 ![enter image description here](https://github.com/mherzog01/Job-Search-Cover-Letter/blob/master/images/Tissue%20Services%20-%20Reimbursement%20Optimization.jpg?raw=true)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNjYyNDU2MywyMTM3NDUwNDA0LDE0NT
-E0ODA2NDIsLTIwNjAyMDAxMiwtMTc1MjQyNTU3NCwxOTc1MjY1
-MDQ4LDQ3Mzk0MjEyLC0xNjQ2MzUyMTc1LC0xNjgxMjQ0MDE1LD
-ExMzQ5ODY4MDAsMjA1MDA1NTIyMiw2MTU1ODY1MTldfQ==
+eyJoaXN0b3J5IjpbLTE0NjU4MzY5MzAsMjEzNzQ1MDQwNCwxND
+UxNDgwNjQyLC0yMDYwMjAwMTIsLTE3NTI0MjU1NzQsMTk3NTI2
+NTA0OCw0NzM5NDIxMiwtMTY0NjM1MjE3NSwtMTY4MTI0NDAxNS
+wxMTM0OTg2ODAwLDIwNTAwNTUyMjIsNjE1NTg2NTE5XX0=
 -->
