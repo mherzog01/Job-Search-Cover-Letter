@@ -56,7 +56,7 @@ People
 Process
 ----------
 **Attributes of a World-Class Performance Metrics**
-![enter image description here](https://github.com/mherzog01/Job-Search-Cover-Letter/blob/master/images/World-class%20BI%20Process.jpg?raw=true)
+![enter image description here](https://github.com/mherzog01/Job-Search-Cover-Letter/blob/master/images/World-class%20BI%20Process.jpg?raw=true|width=100)
 
 Technology
 -------------
@@ -72,10 +72,10 @@ Technology
 ![enter image description here](https://github.com/mherzog01/Job-Search-Cover-Letter/blob/master/images/Tissue%20Services%20-%20Reimbursement%20Optimization.jpg?raw=true)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczOTM3NDQ2NywxODk3NDQ0OTkyLDMyMT
-Y3NzU3NCwzMTQ4OTQzNDksMTUyMTkyNTQ5MSwyMTM3NDUwNDA0
-LDE0NTE0ODA2NDIsLTIwNjAyMDAxMiwtMTc1MjQyNTU3NCwxOT
-c1MjY1MDQ4LDQ3Mzk0MjEyLC0xNjQ2MzUyMTc1LC0xNjgxMjQ0
-MDE1LDExMzQ5ODY4MDAsMjA1MDA1NTIyMiw2MTU1ODY1MTldfQ
-==
+eyJoaXN0b3J5IjpbNDQzNjAxNjMxLC03MzkzNzQ0NjcsMTg5Nz
+Q0NDk5MiwzMjE2Nzc1NzQsMzE0ODk0MzQ5LDE1MjE5MjU0OTEs
+MjEzNzQ1MDQwNCwxNDUxNDgwNjQyLC0yMDYwMjAwMTIsLTE3NT
+I0MjU1NzQsMTk3NTI2NTA0OCw0NzM5NDIxMiwtMTY0NjM1MjE3
+NSwtMTY4MTI0NDAxNSwxMTM0OTg2ODAwLDIwNTAwNTUyMjIsNj
+E1NTg2NTE5XX0=
 -->
