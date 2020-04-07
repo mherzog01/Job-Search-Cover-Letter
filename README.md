@@ -1,7 +1,4 @@
-
-|  |  |
-|--|--|
-| ![enter image description here](https://github.com/mherzog01/Job-Search-Cover-Letter/blob/master/images/Page%201%20image%20-%20vision.jpg?raw=true) |  # Highly Qualified Data Engineer and Analyst
+![enter image description here](https://github.com/mherzog01/Job-Search-Cover-Letter/blob/master/images/Page%201%20image%20-%20vision.jpg?raw=true) |  # Highly Qualified Data Engineer and Analyst
 I deliver game-changing financial and business insights.   My analytics drive multi-million dollar decisions.  I have deep business experience, including managing >$30MM inventory plans.  My  deep technical skills allow me to access data from multiple systems to deliver business results.   
 
 - **Innovative solutions.** &nbsp;Dashboards and metrics which that answer the question:  “are we winning or losing?”
@@ -87,7 +84,7 @@ Dashboards and reports using Qlikview, Tableau, Minitab, Data Studio
 Python-based optimization model for human donor reimbursement
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTI5MzgyMDIsNDczOTQyMTIsLTE2ND
+eyJoaXN0b3J5IjpbLTEyMTQxODk5MDQsNDczOTQyMTIsLTE2ND
 YzNTIxNzUsLTE2ODEyNDQwMTUsMTEzNDk4NjgwMCwyMDUwMDU1
 MjIyLDYxNTU4NjUxOV19
 -->
