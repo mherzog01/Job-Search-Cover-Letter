@@ -1,28 +1,8 @@
 
-|  |  |
+| ![enter image description here](https://github.com/mherzog01/Job-Search-Cover-Letter/blob/master/images/Page%201%20image%20-%20vision.jpg?raw=true) |  |
 |--|--|
 |  |  |
 
-# Highly Qualified Data Engineer and Analyst
-I deliver game-changing financial and business insights.   My analytics drive multi-million dollar decisions.  I have deep business experience, including managing >$30MM inventory plans.  My  deep technical skills allow me to access data from multiple systems to deliver business results.   
-
-- **Innovative solutions.** &nbsp;Dashboards and metrics which that answer the question:  “are we winning or losing?”
-   
-- **Financial modeling and decision support.** &nbsp;Interactive financial simulations and modeling drove $12MM tissue reimbursement decision. &nbsp;Product cost modeling and for engineering and R&D.
-
-- **Technical wizardry.**  &nbsp;Expert data engineer -- data pipelines,
-   wrangling, quality, database design, SQL expert. &nbsp;Web scraping
-   (Selenium). &nbsp;Process automation.
-
-I am the “go-to” person for business partners who need to solve complex data challenges.  
-
-For example, I am currently managing a program of enhancements to a 600 user B2B portal by improving the website’s data quality, look and feel, and analytical capabilities.   We started with voice of customer.  Then, we created detailed prototypes, closely partnering with stakeholders.  We implemented quick wins, created a long-term roadmap, and are now flawlessly executing.   
-
-Your organization is helping millions of people.  My insights and solutions will enhance this noble mission.  Please contact me at your earliest convenience.
-
-Sincerely,
-
-![Signature](https://github.com/mherzog01/Job-Search-Cover-Letter/blob/master/images/Signature%202020-04-03.jpg?raw=true)
 
 
 
@@ -86,7 +66,7 @@ Dashboards and reports using Qlikview, Tableau, Minitab, Data Studio
 Python-based optimization model for human donor reimbursement
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDA1Nzk3MjIsNDczOTQyMTIsLTE2ND
-YzNTIxNzUsLTE2ODEyNDQwMTUsMTEzNDk4NjgwMCwyMDUwMDU1
-MjIyLDYxNTU4NjUxOV19
+eyJoaXN0b3J5IjpbMTUzOTMxMzMxLDQ3Mzk0MjEyLC0xNjQ2Mz
+UyMTc1LC0xNjgxMjQ0MDE1LDExMzQ5ODY4MDAsMjA1MDA1NTIy
+Miw2MTU1ODY1MTldfQ==
 -->
