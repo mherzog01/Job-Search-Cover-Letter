@@ -1,3 +1,8 @@
+
+|  |  |
+|--|--|
+|  |  |
+
 # Highly Qualified Data Engineer and Analyst
 I deliver game-changing financial and business insights.   My analytics drive multi-million dollar decisions.  I have deep business experience, including managing >$30MM inventory plans.  My  deep technical skills allow me to access data from multiple systems to deliver business results.   
 
@@ -81,7 +86,7 @@ Dashboards and reports using Qlikview, Tableau, Minitab, Data Studio
 Python-based optimization model for human donor reimbursement
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDczOTQyMTIsLTE2NDYzNTIxNzUsLTE2OD
-EyNDQwMTUsNDczOTQyMTIsMTEzNDk4NjgwMCwyMDUwMDU1MjIy
-LDYxNTU4NjUxOV19
+eyJoaXN0b3J5IjpbLTE3MDA1Nzk3MjIsNDczOTQyMTIsLTE2ND
+YzNTIxNzUsLTE2ODEyNDQwMTUsMTEzNDk4NjgwMCwyMDUwMDU1
+MjIyLDYxNTU4NjUxOV19
 -->
