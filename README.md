@@ -30,9 +30,14 @@ Sincerely,
 
 <table>
 <tr>
-	<td>**Requirement**</td><td>Qualifications</td>
-|---------------|-----------|
-|Distinctive problem solving|-Finance representative at weekly “Tier-3” executive metrics review 
+	<td>**Requirement**</td>
+	<td>**Qualifications**</td>
+</tr>
+	<td>Distinctive problem solving</td>
+	<td><ol><li>Finance representative at weekly “Tier-3” executive metrics review</li></td>
+<tr>
+</tr>
+||- 
 Used exponential-like distribution to model quality release rate of mission-critical supply of human donors
 Designed and managed LifeCell’s Master Data Management (MDM) process
 
@@ -107,8 +112,8 @@ Technology
 ![enter image description here](https://github.com/mherzog01/Job-Search-Cover-Letter/blob/master/images/Tissue%20Services%20-%20Reimbursement%20Optimization.jpg?raw=true)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODUyNTgzODQsMjEzNzQ1MDQwNCwxND
-UxNDgwNjQyLC0yMDYwMjAwMTIsLTE3NTI0MjU1NzQsMTk3NTI2
-NTA0OCw0NzM5NDIxMiwtMTY0NjM1MjE3NSwtMTY4MTI0NDAxNS
-wxMTM0OTg2ODAwLDIwNTAwNTUyMjIsNjE1NTg2NTE5XX0=
+eyJoaXN0b3J5IjpbNTI1NTEyNTYsMjEzNzQ1MDQwNCwxNDUxND
+gwNjQyLC0yMDYwMjAwMTIsLTE3NTI0MjU1NzQsMTk3NTI2NTA0
+OCw0NzM5NDIxMiwtMTY0NjM1MjE3NSwtMTY4MTI0NDAxNSwxMT
+M0OTg2ODAwLDIwNTAwNTUyMjIsNjE1NTg2NTE5XX0=
 -->
