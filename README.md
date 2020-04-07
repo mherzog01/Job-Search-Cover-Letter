@@ -24,7 +24,7 @@ Sincerely,
 
 
 
-=================================
+<hr>
 
 # Highly Qualified Data Engineer and Analyst
 Requirement
@@ -52,8 +52,13 @@ Led Tissue Inventory Planning process – Operations, Quality, Logistics, Procur
 
 Healthcare service experience
 12 years large enterprise (J&J), 10 years midsize manufacturer (LifeCell/Allergan)
-
+<hr>
 People
+|  |  |
+|--|--|
+|x  |&nbsp;  |
+|&nbsp;|y|
+|z|&nbsp;|
 
 
 
@@ -84,7 +89,8 @@ Dashboards and reports using Qlikview, Tableau, Minitab, Data Studio
 Python-based optimization model for human donor reimbursement
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTI0MjU1NzQsMTk3NTI2NTA0OCw0Nz
-M5NDIxMiwtMTY0NjM1MjE3NSwtMTY4MTI0NDAxNSwxMTM0OTg2
-ODAwLDIwNTAwNTUyMjIsNjE1NTg2NTE5XX0=
+eyJoaXN0b3J5IjpbLTIwNjAyMDAxMiwtMTc1MjQyNTU3NCwxOT
+c1MjY1MDQ4LDQ3Mzk0MjEyLC0xNjQ2MzUyMTc1LC0xNjgxMjQ0
+MDE1LDExMzQ5ODY4MDAsMjA1MDA1NTIyMiw2MTU1ODY1MTldfQ
+==
 -->
