@@ -90,11 +90,11 @@ Dashboards and reports using Qlikview, Tableau, Minitab, Data Studio
 
 ![enter image description here](https://github.com/mherzog01/Job-Search-Cover-Letter/blob/master/images/Dashboard%20-%20Qlikview%20-%20BVA.jpg?raw=true)
 Python-based optimization model for human donor reimbursement
-![enter image description here](https://github.com/mherzog01/Job-Search-Cover-Letter/blob/master/images/TissueServices - Reimbursement Optimization.jpg?raw=true)
-</div>
+![enter image description here](https://github.com/mherzog01/Job-Search-Cover-Letter/blob/master/images/Tissue%20Services%20-%20Reimbursement%20Optimization.jpg?raw=true)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzQ0NTIwNjQsLTIwNjAyMDAxMiwtMT
-c1MjQyNTU3NCwxOTc1MjY1MDQ4LDQ3Mzk0MjEyLC0xNjQ2MzUy
-MTc1LC0xNjgxMjQ0MDE1LDExMzQ5ODY4MDAsMjA1MDA1NTIyMi
-w2MTU1ODY1MTldfQ==
+eyJoaXN0b3J5IjpbMTQ1MTQ4MDY0MiwtMjA2MDIwMDEyLC0xNz
+UyNDI1NTc0LDE5NzUyNjUwNDgsNDczOTQyMTIsLTE2NDYzNTIx
+NzUsLTE2ODEyNDQwMTUsMTEzNDk4NjgwMCwyMDUwMDU1MjIyLD
+YxNTU4NjUxOV19
 -->
