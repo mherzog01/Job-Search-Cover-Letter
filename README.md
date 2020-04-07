@@ -5,20 +5,23 @@ I deliver game-changing financial and business insights.   My analytics drive mu
    
 - **Financial modeling and decision support.** &nbsp;Interactive financial simulations and modeling drove $12MM tissue reimbursement decision. &nbsp;Product cost modeling and for engineering and R&D.
 
-- Technical wizardry.   Expert data engineer -- data pipelines,
-   wrangling, quality, database design, SQL expert.  Web scraping
-   (Selenium).  Process automation.
+- **Technical wizardry.**  &nbsp;Expert data engineer -- data pipelines,
+   wrangling, quality, database design, SQL expert. &nbsp;Web scraping
+   (Selenium). &nbsp;Process automation.
 
 I am the “go-to” person for business partners who need to solve complex data challenges.  
 
 For example, I am currently managing a program of enhancements to a 600 user B2B portal by improving the website’s data quality, look and feel, and analytical capabilities.   We started with voice of customer.  Then, we created detailed prototypes, closely partnering with stakeholders.  We implemented quick wins, created a long-term roadmap, and are now flawlessly executing.   
-SDG is helping millions of people.  My insights and solutions will enhance this noble mission.  Please contact me at your earliest convenience.
+
+Your organization is helping millions of people.  My insights and solutions will enhance this noble mission.  Please contact me at your earliest convenience.
 
 Sincerely,
 
 
 Michael Herzog
 Highly Qualified Data Engineer/Scientist
+
+=================================
 
 Requirement
 Qualifications
@@ -76,5 +79,5 @@ Dashboards and reports using Qlikview, Tableau, Minitab, Data Studio
 
 Python-based optimization model for human donor reimbursement
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDY1Njg4MV19
+eyJoaXN0b3J5IjpbMTQzNTc3NjM5Ml19
 -->
