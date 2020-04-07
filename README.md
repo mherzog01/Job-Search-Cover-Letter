@@ -22,12 +22,12 @@ Sincerely,
 
 People
 --------
-<table style="border:0">
+<table style="border:none">
 	<tr>
 		<td><img src="https://github.com/mherzog01/Job-Search-Cover-Letter/blob/master/images/Recommendation-%20Jim%20Waldron.jpg?raw=true"></td>
 		<td>&nbsp; </td>
 	</tr>
-	<tr>
+	<tr style="border:none">
 		<td>&nbsp;</td>
 		<td><img src="https://github.com/mherzog01/Job-Search-Cover-Letter/blob/master/images/Recommendation%20-%20David%20Reilly.jpg?raw=true"></td>
 	</tr>
@@ -72,9 +72,9 @@ Technology
 ![enter image description here](https://github.com/mherzog01/Job-Search-Cover-Letter/blob/master/images/Tissue%20Services%20-%20Reimbursement%20Optimization.jpg?raw=true)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA4MTk3OTg2LDMyMTY3NzU3NCwzMTQ4OT
-QzNDksMTUyMTkyNTQ5MSwyMTM3NDUwNDA0LDE0NTE0ODA2NDIs
-LTIwNjAyMDAxMiwtMTc1MjQyNTU3NCwxOTc1MjY1MDQ4LDQ3Mz
-k0MjEyLC0xNjQ2MzUyMTc1LC0xNjgxMjQ0MDE1LDExMzQ5ODY4
-MDAsMjA1MDA1NTIyMiw2MTU1ODY1MTldfQ==
+eyJoaXN0b3J5IjpbMTg5NzQ0NDk5MiwzMjE2Nzc1NzQsMzE0OD
+k0MzQ5LDE1MjE5MjU0OTEsMjEzNzQ1MDQwNCwxNDUxNDgwNjQy
+LC0yMDYwMjAwMTIsLTE3NTI0MjU1NzQsMTk3NTI2NTA0OCw0Nz
+M5NDIxMiwtMTY0NjM1MjE3NSwtMTY4MTI0NDAxNSwxMTM0OTg2
+ODAwLDIwNTAwNTUyMjIsNjE1NTg2NTE5XX0=
 -->
