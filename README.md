@@ -24,6 +24,7 @@ Sincerely,
 
 
 
+<!--
 <hr>
 
 # Highly Qualified Data Engineer and Analyst
@@ -36,13 +37,13 @@ Sincerely,
 	<td>Distinctive problem solving</td>
 	<td><ul><li>Finance representative at weekly “Tier-3” executive metrics review</li>
 	<li>Used exponential-like distribution to model quality release rate of mission-critical supply of human donors</li>
+	<li>Designed and managed LifeCell’s Master Data Management (MDM) process</li>
 	</ul>
 	</td>
 <tr>
 </tr>
-||- 
+</table>
 
-Designed and managed LifeCell’s Master Data Management (MDM) process
 
 Proven database, automation, and BI skills
 Managed Operations data warehouse and self-service data portal (mission-critical to operations, 100 users)
@@ -62,6 +63,7 @@ Led Tissue Inventory Planning process – Operations, Quality, Logistics, Procur
 
 Healthcare service experience
 12 years large enterprise (J&J), 10 years midsize manufacturer (LifeCell/Allergan)
+-->
 <hr>
 People
 --------
@@ -115,7 +117,7 @@ Technology
 ![enter image description here](https://github.com/mherzog01/Job-Search-Cover-Letter/blob/master/images/Tissue%20Services%20-%20Reimbursement%20Optimization.jpg?raw=true)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0Njc5Nzg3OSwyMTM3NDUwNDA0LDE0NT
+eyJoaXN0b3J5IjpbMTUyMTkyNTQ5MSwyMTM3NDUwNDA0LDE0NT
 E0ODA2NDIsLTIwNjAyMDAxMiwtMTc1MjQyNTU3NCwxOTc1MjY1
 MDQ4LDQ3Mzk0MjEyLC0xNjQ2MzUyMTc1LC0xNjgxMjQ0MDE1LD
 ExMzQ5ODY4MDAsMjA1MDA1NTIyMiw2MTU1ODY1MTldfQ==
