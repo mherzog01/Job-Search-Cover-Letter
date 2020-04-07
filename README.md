@@ -55,12 +55,20 @@ Healthcare service experience
 <hr>
 People
 --------
-|  |  |
-|--|--|
-|x  |&nbsp;  |
-|&nbsp;|y|
-|z|&nbsp;|
-
+<table>
+	<tr>
+		<td>x</td>
+		<td>&nbsp; </td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>y </td>
+	</tr>
+	<tr>
+		<td>x</td>
+		<td>&nbsp; </td>
+	</tr>
+</table>
 
 
 
@@ -97,8 +105,8 @@ Technology
 ![enter image description here](https://github.com/mherzog01/Job-Search-Cover-Letter/blob/master/images/Tissue%20Services%20-%20Reimbursement%20Optimization.jpg?raw=true)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNzQ1MDQwNCwxNDUxNDgwNjQyLC0yMD
-YwMjAwMTIsLTE3NTI0MjU1NzQsMTk3NTI2NTA0OCw0NzM5NDIx
-MiwtMTY0NjM1MjE3NSwtMTY4MTI0NDAxNSwxMTM0OTg2ODAwLD
-IwNTAwNTUyMjIsNjE1NTg2NTE5XX0=
+eyJoaXN0b3J5IjpbLTI1MjQ5NzA4NCwyMTM3NDUwNDA0LDE0NT
+E0ODA2NDIsLTIwNjAyMDAxMiwtMTc1MjQyNTU3NCwxOTc1MjY1
+MDQ4LDQ3Mzk0MjEyLC0xNjQ2MzUyMTc1LC0xNjgxMjQ0MDE1LD
+ExMzQ5ODY4MDAsMjA1MDA1NTIyMiw2MTU1ODY1MTldfQ==
 -->
