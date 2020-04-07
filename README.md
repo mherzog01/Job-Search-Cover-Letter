@@ -72,3 +72,6 @@ Dashboards and reports using Qlikview, Tableau, Minitab, Data Studio
 
 
 Python-based optimization model for human donor reimbursement
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE3ODYyMDgxNDhdfQ==
+-->
