@@ -13,7 +13,7 @@ I am the “go-to” person for business partners who need to solve complex data
 
 For example, I am currently managing a program of enhancements to a 600 user B2B portal by improving the website’s data quality, look and feel, and analytical capabilities.   We started with voice of customer.  Then, we created detailed prototypes, closely partnering with stakeholders.  We implemented quick wins, created a long-term roadmap, and are now flawlessly executing.   
 
-Your organization is helping millions of people.  My insights and solutions will enhance this noble mission.  Please contact me at your earliest convenience.
+Your organization will help millions of people.  My insights and solutions will enhance this noble mission.  Please contact me at your earliest convenience.
 
 Sincerely,
 
@@ -72,10 +72,10 @@ Technology
 ![enter image description here](https://github.com/mherzog01/Job-Search-Cover-Letter/blob/master/images/Tissue%20Services%20-%20Reimbursement%20Optimization.jpg?raw=true)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NDA5MzM1MSwtNzM5Mzc0NDY3LDE4OT
-c0NDQ5OTIsMzIxNjc3NTc0LDMxNDg5NDM0OSwxNTIxOTI1NDkx
-LDIxMzc0NTA0MDQsMTQ1MTQ4MDY0MiwtMjA2MDIwMDEyLC0xNz
-UyNDI1NTc0LDE5NzUyNjUwNDgsNDczOTQyMTIsLTE2NDYzNTIx
-NzUsLTE2ODEyNDQwMTUsMTEzNDk4NjgwMCwyMDUwMDU1MjIyLD
-YxNTU4NjUxOV19
+eyJoaXN0b3J5IjpbNDAwODkwODk3LC03MzkzNzQ0NjcsMTg5Nz
+Q0NDk5MiwzMjE2Nzc1NzQsMzE0ODk0MzQ5LDE1MjE5MjU0OTEs
+MjEzNzQ1MDQwNCwxNDUxNDgwNjQyLC0yMDYwMjAwMTIsLTE3NT
+I0MjU1NzQsMTk3NTI2NTA0OCw0NzM5NDIxMiwtMTY0NjM1MjE3
+NSwtMTY4MTI0NDAxNSwxMTM0OTg2ODAwLDIwNTAwNTUyMjIsNj
+E1NTg2NTE5XX0=
 -->
