@@ -1,9 +1,4 @@
-# Mike Herzog
- 
-April 6, 2020
-
-Dear Frank and SDG Team:
-
+# Highly Qualified Software Engineer and Data Scientist
 I deliver game-changing financial and business insights.   My analytics drive multi-million dollar decisions.  I have deep business experience, including managing >$30MM inventory plans.  My  deep technical skills allow me to access data from multiple systems to deliver business results.   
 Innovative solutions.  Dashboards and metrics which that answer the question:  “are we winning or losing?”
 
