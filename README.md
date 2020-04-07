@@ -19,10 +19,11 @@ Sincerely,
 
 
 Michael Herzog
-Highly Qualified Data Engineer/Scientist
+
 
 =================================
 
+# Highly Qualified Data Engineer and Analyst
 Requirement
 Qualifications
 Distinctive problem solving
@@ -79,5 +80,5 @@ Dashboards and reports using Qlikview, Tableau, Minitab, Data Studio
 
 Python-based optimization model for human donor reimbursement
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNTc3NjM5Ml19
+eyJoaXN0b3J5IjpbNjE1NTg2NTE5XX0=
 -->
