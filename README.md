@@ -17,8 +17,8 @@ Your organization is helping millions of people.  My insights and solutions will
 
 Sincerely,
 
+![Signature](https://github.com/mherzog01/Job-Search-Cover-Letter/blob/master/images/Signature%202020-04-03.jpg?raw=true)
 
-Michael Herzog
 
 
 =================================
@@ -80,5 +80,5 @@ Dashboards and reports using Qlikview, Tableau, Minitab, Data Studio
 
 Python-based optimization model for human donor reimbursement
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE1NTg2NTE5XX0=
+eyJoaXN0b3J5IjpbMjA1MDA1NTIyMiw2MTU1ODY1MTldfQ==
 -->
