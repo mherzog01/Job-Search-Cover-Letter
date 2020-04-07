@@ -57,7 +57,7 @@ People
 --------
 <table>
 	<tr>
-		<td>x</td>
+		<td><img href="https://github.com/mherzog01/Job-Search-Cover-Letter/blob/master/images/Recommendation-%20Jim%20Waldron.jpg?raw=true"></td>
 		<td>&nbsp; </td>
 	</tr>
 	<tr>
@@ -105,7 +105,7 @@ Technology
 ![enter image description here](https://github.com/mherzog01/Job-Search-Cover-Letter/blob/master/images/Tissue%20Services%20-%20Reimbursement%20Optimization.jpg?raw=true)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMDA1NTM4NiwyMTM3NDUwNDA0LDE0NT
+eyJoaXN0b3J5IjpbMTUxNjYyNDU2MywyMTM3NDUwNDA0LDE0NT
 E0ODA2NDIsLTIwNjAyMDAxMiwtMTc1MjQyNTU3NCwxOTc1MjY1
 MDQ4LDQ3Mzk0MjEyLC0xNjQ2MzUyMTc1LC0xNjgxMjQ0MDE1LD
 ExMzQ5ODY4MDAsMjA1MDA1NTIyMiw2MTU1ODY1MTldfQ==
