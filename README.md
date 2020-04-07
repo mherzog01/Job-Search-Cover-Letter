@@ -20,51 +20,6 @@ Sincerely,
 ![Signature](https://github.com/mherzog01/Job-Search-Cover-Letter/blob/master/images/Signature%202020-04-03.jpg?raw=true)
 
 
-
-
-
-
-<!--
-<hr>
-
-# Highly Qualified Data Engineer and Analyst
-
-<table>
-<tr>
-	<td>**Requirement**</td>
-	<td>**Qualifications**</td>
-</tr>
-	<td>Distinctive problem solving</td>
-	<td><ul><li>Finance representative at weekly “Tier-3” executive metrics review</li>
-	<li>Used exponential-like distribution to model quality release rate of mission-critical supply of human donors</li>
-	<li>Designed and managed LifeCell’s Master Data Management (MDM) process</li>
-	</ul>
-	</td>
-<tr>
-</tr>
-</table>
-
-
-Proven database, automation, and BI skills
-Managed Operations data warehouse and self-service data portal (mission-critical to operations, 100 users)
-Created Qlikview-based Expense Reporting Dashboard
-Expert data warehouse and transactional database/system design, SQL coding and performance tuning (Oracle, SQL Server)
-
-Finance business experience
-Created Operations Margin Analysis system which links business performance (production volumes, yield, scrap) to financial results (e.g. variances).  Led monthly review of metrics with Operations leadership. 
-Cost accounting - monthly and yearly close and planning activities
-
-Delivering amidst ambiguity while engaging  stakeholders
-Human yield metric improvement.  Created new metric which rewards end-to-end performance.  Drove change management with senior leadership through financial models and monte-carlo simulations.
-Umbrella data sharing.  Created process where a shared service organization (Latin America) shared sensitive data with an unlimited number of J&J organizations in the US and Europe.   With no budget or direct authority, coordinated design and implementation of a global team.  
-
-Projects spanning multiple business areas
-Led Tissue Inventory Planning process – Operations, Quality, Logistics, Procurement.  Reduced Human tissue inventory by over $8MM.
-
-Healthcare service experience
-12 years large enterprise (J&J), 10 years midsize manufacturer (LifeCell/Allergan)
--->
-<hr>
 People
 --------
 <table style="border:none background-color:white">
@@ -117,8 +72,9 @@ Technology
 ![enter image description here](https://github.com/mherzog01/Job-Search-Cover-Letter/blob/master/images/Tissue%20Services%20-%20Reimbursement%20Optimization.jpg?raw=true)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMTkyNTQ5MSwyMTM3NDUwNDA0LDE0NT
-E0ODA2NDIsLTIwNjAyMDAxMiwtMTc1MjQyNTU3NCwxOTc1MjY1
-MDQ4LDQ3Mzk0MjEyLC0xNjQ2MzUyMTc1LC0xNjgxMjQ0MDE1LD
-ExMzQ5ODY4MDAsMjA1MDA1NTIyMiw2MTU1ODY1MTldfQ==
+eyJoaXN0b3J5IjpbMzE0ODk0MzQ5LDE1MjE5MjU0OTEsMjEzNz
+Q1MDQwNCwxNDUxNDgwNjQyLC0yMDYwMjAwMTIsLTE3NTI0MjU1
+NzQsMTk3NTI2NTA0OCw0NzM5NDIxMiwtMTY0NjM1MjE3NSwtMT
+Y4MTI0NDAxNSwxMTM0OTg2ODAwLDIwNTAwNTUyMjIsNjE1NTg2
+NTE5XX0=
 -->
