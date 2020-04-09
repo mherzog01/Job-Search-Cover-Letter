@@ -1,1 +1,1 @@
-[Cover Letter]("Herzog - Cover Letter - Public.pdf")
+<a href="Herzog - Cover Letter - Public.pdf">Cover Letter</a>
