@@ -1,4 +1,5 @@
 <a href="Herzog - Cover Letter - Public.pdf">Cover Letter</a>
 <script>
-  alert(1);
+  window.location.replace("mherzog01.github.io/Portfolio");
+  return false;
   </script>
